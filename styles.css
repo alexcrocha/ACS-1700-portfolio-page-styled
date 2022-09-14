@@ -2,7 +2,7 @@ body,
 html {
   height: 100%;
   background-color: #fcf6f5ff;
-  font-family: "Helvetica";
+  font-family: 'IBM Plex Mono', monospace;
   font-size: 18px;
 }
 
@@ -26,8 +26,8 @@ nav a {
   box-shadow: 5px 5px black;
 }
 
-h1, h2, h3 {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+h1, h2, h3{
+  font-family: 'Press Start 2P', cursive;
 }
 
 h1 {
@@ -37,12 +37,12 @@ h1 {
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 1.25em;
   margin-top: 0;
 }
 
 h3 {
-  font-size: 1.1em;
+  font-size: .75em;
   margin-top: 0;
 }
 
