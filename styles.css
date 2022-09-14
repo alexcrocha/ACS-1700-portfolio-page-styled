@@ -3,7 +3,7 @@ html {
   height: 100%;
   background-color: #fcf6f5ff;
   font-family: 'IBM Plex Mono', monospace;
-  font-size: 18px;
+  font-size: 17px;
 }
 
 nav {
@@ -42,7 +42,7 @@ h2 {
 }
 
 h3 {
-  font-size: .75em;
+  font-size: 0.8em;
   margin-top: 0;
 }
 
