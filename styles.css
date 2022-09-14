@@ -26,6 +26,10 @@ nav a {
   box-shadow: 5px 5px black;
 }
 
+h1, h2, h3 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 h1 {
   font-size: 2em;
   display: flex;
@@ -98,6 +102,7 @@ section:nth-of-type(odd) {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
+  line-height: 1.25;
 }
 
 #contact header {
