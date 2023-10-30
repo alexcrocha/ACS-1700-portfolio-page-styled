@@ -26,7 +26,7 @@ nav a {
   box-shadow: 5px 5px black;
 }
 
-h1, h2, h3{
+h1, h2, h3 {
   font-family: 'Press Start 2P', cursive;
 }
 
@@ -67,6 +67,8 @@ img {
   border-radius: 10px;
   border: 2px solid;
   box-shadow: 5px 5px;
+  max-width: 60%;
+  margin: 0 auto;
 }
 
 blockquote {
@@ -90,12 +92,6 @@ section:nth-of-type(odd) {
   background-color: #8abad3ff;
   border-radius: 10px;
 }
-
-/* I am not sure if this looks better with the same background colour as its parent or a different colour*/
-/* #experience section:nth-of-type(even) {
-  background-color: #FCF6F5FF;
-  border-radius: 10px;
-} */
 
 #contact {
   display: flex;
