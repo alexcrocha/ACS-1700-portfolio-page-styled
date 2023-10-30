@@ -17,6 +17,11 @@ nav {
     margin: 1em;
     background-color: #edc2d8ff;
     box-shadow: 5px 5px black;
+
+    &:hover {
+      transform: translate(5px, 5px);
+      box-shadow: none;
+    }
   }
 }
 
